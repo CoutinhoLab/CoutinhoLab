@@ -1,4 +1,4 @@
-- 👋 Hi, we are from Molecular Simulations Lab by Prof. Evans C. Coutinho at Bombay College of Pharmacy.
+- 👋 Hi, we are from Molecular Simulations Lab, headed by Prof. Evans C. Coutinho at Bombay College of Pharmacy.
 
 <!---
 CoutinhoLab/CoutinhoLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
